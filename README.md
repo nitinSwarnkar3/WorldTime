@@ -1,16 +1,15 @@
-# world_time
+🌍 World Time App – Check Time Across the Globe! ⏰
+A simple Flutter app to display the current time in different locations worldwide.
 
-A new Flutter project.
+📌 Features
+✅ Fetches real-time data from TimeAPI.io
+✅ Displays local time, date, and day of the week for various locations
+✅ Beautiful UI with country flags for easy recognition 🌎
+✅ Day/Night mode based on the current time ☀️🌙
+✅ Interactive location selection
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠️ Tech Stack
+Flutter (Dart) – Frontend framework for building the app
+HTTP Package – Fetching real-time data
+Intl Package – Formatting date and time
+Asynchronous Programming – Handling API calls smoothly
